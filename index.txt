@@ -1,3 +1,11 @@
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+   <H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
+
+
 === git status ===
 Verifica o status do repositório, quais arquivos já foram incluídos no controle de versão e se algum arquivo foi atualizado.
 
