@@ -1,0 +1,27 @@
+=== git status ===
+Verifica o status do repositório, quais arquivos já foram incluídos no controle de versão e se algum arquivo foi atualizado.
+
+=== git add ===
+Adiciona arquivos ao controle de versão
+git add "nome do arquivo.txt" - adiciona somente o arquivo especificado
+git add . - adiciona todos os arquivos
+
+=== git commit ===
+git commit -m "comentário" - faz o commit (uma nova versão do código) e associa ao código o comentário (com a descrição do que foi alterado)
+
+=== git push ===
+Envia para o controle de versão
+
+=== git checkout ===
+git checkout nome_da_branch - vai para a branch especificada
+
+=== git merge ===
+git merge nome_da_branch - quero puxar da branch especificada para a branch que eu estou no momento
+
+=== git pull ===
+git pull - baixar uma atualização do repositório remoto para o repositório local.
+
+=== git remote ===
+permite criar, ver e excluir conexões com outros repositórios, por exemplo:
+git remote add origin "destino" - informa a pasta remota
+gir remote -v - permite visualizar o repositório remoto
